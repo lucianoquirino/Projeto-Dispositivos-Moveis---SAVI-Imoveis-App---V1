@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384449103226",
+    "project_id": "savi-imoveis-app-ab176",
+    "storage_bucket": "savi-imoveis-app-ab176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384449103226:android:c802aca3db3f419883c2c3",
+        "android_client_info": {
+          "package_name": "com.lucianoquirino.saviimoveisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384449103226-gf13jqgcmskfafhr9k9f5jflkljkgsp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucianoquirino.saviimoveisapp",
+            "certificate_hash": "2d2fd632af664c4d65f57df6e8f575712171a39f"
+          }
+        },
+        {
+          "client_id": "384449103226-tdr7a2rrmq53s4bdusn32cb6iolauooj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmg9IV2om6XcD3Y-5Y8MKBruTuPsZUwRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384449103226-tdr7a2rrmq53s4bdusn32cb6iolauooj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
